@@ -1,4 +1,21 @@
+# world = True
+# while(world):
+#     print("World is rotation")
+
+# day = 1
+# world = True
+# while(world):
+#     print("World is rotating")
+#     if day == 365:
+#         break;
+#     day = day + 1
+
+persons = ['Jubel',"Jony","Sushen","Rony"]
+for person in persons:
+    print(person)
     
+
+
 # name print 10 times
 for i in range(10):
     print( str(i) + " : my name is jhon")
